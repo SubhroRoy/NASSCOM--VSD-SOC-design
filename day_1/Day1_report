@@ -1,0 +1,54 @@
+Day 1 
+PICORV32A PREP DONE
+ 
+FIG 1. 1
+Run_synthesis done
+ 
+FIG 1. 2
+Synthesis and ABC runs have completed. 
+
+
+
+
+
+
+
+
+
+
+
+
+TASK 1 : To find flop ratio.
+
+ 
+
+
+
+
+
+
+
+
+
+Design name: picorv32a.
+Chip module area : 147712.918400
+Flop ratio = no of DFFs (D flip-flop)/Total no of cells. 
+Total no of cells = 14876 (as seen in FIG 1.2).
+No of DFFs (count of sky130_fd_sc_hd__dfxtp_2) = 1613 (as seen in FIG 1.3).
+Flop ratio = 1613/14876 = 0.1084296853993009 = 10.84 %
+Results path: /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/17-05_13-54/results
+ 
+Synthesized netlist:
+/home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/17-05_13-54/results/synthesis/picorv32a.synthesis.v
+ 
+
+Run directory structure:
+ 
+Yosys report path: 
+/home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/17-05_13-54/reports/synthesis/1-yosys_4.stat.rpt
+ 
+OpenSTA report path:
+/home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/17-05_13-54/reports/synthesis/2-opensta.timing.rpt
+ 
+Search for fossi dial up for skywater 130nm pdk details 
+https://www.youtube.com/results?search_query=fossi+dial+up

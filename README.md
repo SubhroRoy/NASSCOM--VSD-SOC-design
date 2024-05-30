@@ -1,10 +1,9 @@
 # NASSCOM--VSD-SOC-design
-Day1 <br>
-* Topics covered. <br>
-  * How to talk to computers?
-  * SOC design and openLANE.
-  * Get familiar to open source EDA tools.
-  <br>
+DAY 1 discussion includes. <br>
+ * How to talk to computers?
+ * SOC design and openLANE.
+ * Get familiar to open source EDA tools.
+<br>
   
 QFN 48 Package Introduction <br>
 AUDRINO Board Introduction <br>

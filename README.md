@@ -1,8 +1,8 @@
 # NASSCOM--VSD-SOC-design
 Day1 <br>
 Topics covered. <br>
-QFN 48 Package Introduction 
-AUDRINO Board Introduction 
+QFN 48 Package Introduction <br>
+AUDRINO Board Introduction <br>
 <img width="251" alt="Screenshot 2024-05-30 124954" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/08b862b8-f230-4402-a0c0-b4445a29c09d">
 
 PICORV32A PREP DONE

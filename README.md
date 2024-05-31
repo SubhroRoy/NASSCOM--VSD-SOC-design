@@ -26,6 +26,11 @@ If we take the chip in question and remove the cover. We will see the chip struc
 <br>
 FIG 1.1.2: CHIP Inside: Pads, Core, Die 
 </figcaption> <br><br>
+
+CORE: Where all the logic sits.
+DIE: Size of the chip.
+PADs: 
+
 * SOC design and openLANE.
 * Get familiar to open source EDA tools.
 <br><br>

@@ -29,7 +29,7 @@ FIG 1.1.2: CHIP Inside: PADS, Core, Die
 
 **CORE**: Where all the logic sits.<br>
 **DIE**: Size of the chip.<br>
-**PADS**: <br>
+**PADS**: Used to send the signals inside the chip. <br>
 
 * SOC design and openLANE.
 * Get familiar to open source EDA tools.

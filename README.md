@@ -2,7 +2,7 @@
 ## **DAY 1** <br> 
 Introduction to open-source EDA, openLANE, skywater130 pdk and prerequisites. <br>
 * Introduction to Packages for design, open-source EDA, openLANE and skywater130 pdk.
-  *** Introduction to QFN-48 Package.** <br>
+  * **Introduction to QFN-48 Package.** <br>
 
 AUDRINO Board Introduction <br>
 <figcaption style="text-align:center;">

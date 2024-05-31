@@ -17,7 +17,7 @@ In Fig. 1.1.1, circled in yellow, is the chip in focus. Here we can see the chip
 <figcaption style="text-align:center;">
 <img width="284" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/d17d03e9-931c-4653-8595-ed48a0ed910a">
  <br>
-FIG 1.1.2: Chip package structure
+FIG 1.1.2: Chip structure in a QFN-48 package 
 </figcaption> <br><br>
 
 * SOC design and openLANE.

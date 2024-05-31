@@ -24,7 +24,7 @@ If we take the chip in question and remove the cover. We will see the chip struc
 <figcaption style="text-align:center;">
 <img width="407" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/cc6bfd37-ac02-4646-b07c-6c7c6ac081ee">
 <br>
-FIG 1.1.2: CHIP Inside: Pads 
+FIG 1.1.2: CHIP Inside: Pads, Core, Die 
 </figcaption> <br><br>
 * SOC design and openLANE.
 * Get familiar to open source EDA tools.

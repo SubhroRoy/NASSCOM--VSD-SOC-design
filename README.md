@@ -3,6 +3,7 @@
 Introduction to open-source EDA, openLANE, skywater130 pdk and prerequisites. <br>
 * Introduction to Packages for design, open-source EDA, openLANE and skywater130 pdk.
   * Introduction to QFN-48 Package. <br>
+
 AUDRINO Board Introduction <br>
 <figcaption style="text-align:center;">
 <img width="259" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/0d8ec951-9f47-4df3-a18a-f55aef344ba7"> <br>

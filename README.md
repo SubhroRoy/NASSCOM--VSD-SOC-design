@@ -26,6 +26,7 @@ If we take the chip in question and remove the cover. We will see the chip struc
 <br>
 FIG 1.1.2: CHIP Inside: PADS, Core, Die 
 </figcaption> <br><br>
+
 **Components of the CHIP**
 **CORE**: Where all the logic sits.<br>
 **DIE**: Size of the chip.<br>

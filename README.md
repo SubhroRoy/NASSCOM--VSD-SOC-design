@@ -15,7 +15,7 @@ In Fig. 1.1.1, circled in yellow, is the chip in focus. Here we can see the chip
 <br><br>
 
 <figcaption style="text-align:center;">
-<img width="302" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/6cb54388-69cb-4d63-961c-398540c78717">
+<img width="300" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/55393ac9-4072-4522-90cf-cf48fa148cdc">
  <br>
 FIG 1.1.2: Chip structure in a QFN-48 package 
 </figcaption> <br><br>

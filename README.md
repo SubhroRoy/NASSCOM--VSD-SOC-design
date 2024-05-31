@@ -1,6 +1,6 @@
 # NASSCOM--VSD-SOC-design
 ## **DAY 1** <br> 
-<span style="font-size:24px;"> Introduction to open-source EDA, openLANE, skywater130 pdk and prerequisites. </span>
+<span style="font-size:30px;"> Introduction to open-source EDA, openLANE, skywater130 pdk and prerequisites. </span>
 * Introduction to Packages for design, open-source EDA, openLANE and skywater130 pdk.
   * Introduction to QFN-48 Package. <br>
 QFN 48 Package Introduction <br>

@@ -14,6 +14,12 @@ FIG 1.1.1: AUDRINO BOARD and block diagram for the board
 In Fig. 1.1.1, circled in yellow, is the chip in focus. Here we can see the chip and the block diagram. The block diagram shows the processor with the interface connections. 
 <br><br>
 
+<figcaption style="text-align:center;">
+<img width="284" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/d17d03e9-931c-4653-8595-ed48a0ed910a">
+ <br>
+FIG 1.1.2: Chip package structure
+</figcaption> <br><br>
+
 * SOC design and openLANE.
 * Get familiar to open source EDA tools.
 <br><br>

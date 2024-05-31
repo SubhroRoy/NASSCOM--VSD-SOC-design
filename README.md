@@ -1,7 +1,8 @@
 # NASSCOM--VSD-SOC-design
 ## **DAY 1** <br> 
 Introduction to open-source EDA, openLANE, skywater130 pdk and prerequisites. <br>
-* Introduction to Packages for design, open-source EDA, openLANE and skywater130 pdk.  
+* Introduction to Packages for design, open-source EDA, openLANE and skywater130 pdk.
+  * Design Packages.  
 * SOC design and openLANE.
 * Get familiar to open source EDA tools.
 <br>

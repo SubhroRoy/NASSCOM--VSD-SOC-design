@@ -10,6 +10,7 @@ AUDRINO Board Introduction <br>
 FIG 0.0.1: AUDRINO BOARD 
 </figcaption>
 
+
 * SOC design and openLANE.
 * Get familiar to open source EDA tools.
 <br>

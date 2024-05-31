@@ -8,7 +8,7 @@ AUDRINO Board Introduction <br>
 <figcaption style="text-align:center;">
 <img width="259" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/0d8ec951-9f47-4df3-a18a-f55aef344ba7"> <br>
 FIG 0.0.1: AUDRINO BOARD 
-</figcaption>
+</figcaption> <br>
 In Fig 0.0.1 circled in yellow is the chip in focus. <br>
 
 * SOC design and openLANE.

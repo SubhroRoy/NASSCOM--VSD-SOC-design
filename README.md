@@ -1,5 +1,5 @@
 # NASSCOM--VSD-SOC-design
-**DAY 1** <br> 
+##**DAY 1** <br> 
 Introduction to open-source EDA, openLANE, skywater130 pdk and prerequisites. <br>
 * How to talk to computers?
 * SOC design and openLANE.

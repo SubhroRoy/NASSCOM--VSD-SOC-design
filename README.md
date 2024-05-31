@@ -31,6 +31,11 @@ FIG 1.1.2: CHIP Inside: PADS, Core, Die
 **CORE**: Where all the logic sits.<br>
 **DIE**: Size of the chip.<br>
 **PADS**: Used to send the signals inside the chip. <br>
+<figcaption style="text-align:center;">
+<img width="371" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/fde7311b-5a2a-417b-a71b-f0cd4d2a8c79">
+<br>
+FIG 1.1.2: RISC V SOC sample 
+</figcaption> <br><br>
 
 * SOC design and openLANE.
 * Get familiar to open source EDA tools.

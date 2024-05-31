@@ -13,7 +13,7 @@ In Fig 0.0.1 circled in yellow is the chip in focus. <br>
 
 * SOC design and openLANE.
 * Get familiar to open source EDA tools.
-<br>
+<br><br>
   
 PICORV32A PREP DONE
 ![image](https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/05c30919-36f8-4d64-a5e2-2b652adeb588)

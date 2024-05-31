@@ -24,7 +24,7 @@ If we take the chip in question and remove the cover. We will see the chip struc
 <figcaption style="text-align:center;">
 <img width="407" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/cc6bfd37-ac02-4646-b07c-6c7c6ac081ee">
 <br>
-FIG 1.1.2: CHIP Inside: PADS, Core, Die 
+FIG 1.1.3: CHIP Inside: PADS, Core, Die 
 </figcaption> <br><br>
 
 **Components of the CHIP :** <br>
@@ -34,7 +34,7 @@ FIG 1.1.2: CHIP Inside: PADS, Core, Die
 <figcaption style="text-align:center;">
 <img width="371" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/fde7311b-5a2a-417b-a71b-f0cd4d2a8c79">
 <br>
-FIG 1.1.2: RISC V SOC sample 
+FIG 1.1.4: RISC V SOC sample 
 </figcaption> <br><br>
 
 * SOC design and openLANE.

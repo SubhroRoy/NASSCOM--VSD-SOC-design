@@ -9,9 +9,9 @@ AUDRINO Board <br>
 <img width="259" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/0d8ec951-9f47-4df3-a18a-f55aef344ba7">
  <img width="480" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/ee9e2175-37df-4b46-96b9-523aa81d5653">
  <br>
-FIG 0.0.1: AUDRINO BOARD 
+FIG 1.1.1: AUDRINO BOARD and block diagram for the board
 </figcaption> <br><br>
-In Fig 0.0.1 circled in yellow is the chip in focus. <br><br>
+In Fig 1.1.1 circled in yellow is the chip in focus. <br><br>
 
 * SOC design and openLANE.
 * Get familiar to open source EDA tools.

@@ -18,7 +18,7 @@ In Fig. 1.1.1, circled in yellow, is the chip in focus. Here we can see the chip
  <br>
 FIG 1.1.2: Chip structure in a QFN-48 package 
 </figcaption> <br><br>
-If we take the chip in question and remove the cover. We will see the chip structure as seen above. It is a QFN-48 package structure i.e. Quad Flat No-Leads structure with a total of 48 pins. <br><br>
+If we take the chip in question and remove the cover. We will see the chip structure as seen above. It is a QFN-48 package structure i.e. Quad Flat No-Leads structure with a total of 48 pins. The chip sits at the middle of the package. <br><br>
 
 * SOC design and openLANE.
 * Get familiar to open source EDA tools.

@@ -11,7 +11,8 @@ AUDRINO Board <br>
  <br>
 FIG 1.1.1: AUDRINO BOARD and block diagram for the board
 </figcaption> <br><br>
-In Fig 1.1.1 circled in yellow is the chip in focus. <br><br>
+In Fig. 1.1.1, circled in yellow, is the chip in focus. Here we can see the chip and the block diagram. The block diagram shows the processor with the interface connections. 
+<br><br>
 
 * SOC design and openLANE.
 * Get familiar to open source EDA tools.

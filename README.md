@@ -15,8 +15,7 @@ In Fig. 1.1.1, circled in yellow, is the chip in focus. Here we can see the chip
 <br><br>
 
 <figcaption style="text-align:center;">
-<img width="300" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/55393ac9-4072-4522-90cf-cf48fa148cdc">
- <br>
+<img width="300" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/55393ac9-4072-4522-90cf-cf48fa148cdc"> <br>
 FIG 1.1.2: Chip structure in a QFN-48 package 
 </figcaption> <br><br>
 If we take the chip in question and remove the cover. We will see the chip structure as seen above. It is a QFN-48 package structure i.e. Quad Flat No-Leads structure with a total of 48 pins. The chip sits at the middle of the package connected to the pins using wire bonds. <br><br>

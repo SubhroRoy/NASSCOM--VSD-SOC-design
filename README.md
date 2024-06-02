@@ -16,8 +16,10 @@ In Fig. 1.1.1, circled in yellow, is the chip in focus. Here we can see the chip
 
 <figcaption style="text-align:center;">
 <img width="300" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/55393ac9-4072-4522-90cf-cf48fa148cdc"> 
+<img width="407" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/cc6bfd37-ac02-4646-b07c-6c7c6ac081ee">
+<img width="371" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/fde7311b-5a2a-417b-a71b-f0cd4d2a8c79">
 <br>
-FIG 1.1.2: Chip structure in a QFN-48 package 
+FIG 1.1.2: (i)Chip structure in a QFN-48 package,(ii)CHIP Inside: PADS, Core, Die, (iii)RISC V SOC sample  
 </figcaption> <br><br>
 If we take the chip in question and remove the cover. We will see the chip structure as seen above. It is a QFN-48 package structure i.e. Quad Flat No-Leads structure with a total of 48 pins. The chip sits at the middle of the package connected to the pins using wire bonds. <br><br>
 

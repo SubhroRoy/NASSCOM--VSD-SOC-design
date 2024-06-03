@@ -3,8 +3,6 @@
 ## **Introduction to open-source EDA, openLANE, skywater130 pdk and prerequisites.** <br>
 * Introduction to Packages for design, open-source EDA, openLANE and skywater130 pdk.
   * Introduction to QFN-48 Package. <br>
-  * Introduction to RISC V. <br>
-  
 AUDRINO Board <br>
 <figcaption style="text-align:center;">
 <img width="259" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/0d8ec951-9f47-4df3-a18a-f55aef344ba7">
@@ -33,8 +31,7 @@ If we take the chip in question and remove the cover. We will see the chip struc
 A typical RISC-V SoC core consists of: <br>
 **Foundry IPs**(Intellectual Property) SRAM, ADC, DAC, PLL. <br>
 **MACROS**(purely digital blocks) SPI, RISC V SOC. <BR>
-
-  * Introduction to RISC-V. <br>
+  * Introduction to RISC V. <br>
 
 * SOC design and openLANE.
 * Get familiar to open source EDA tools.

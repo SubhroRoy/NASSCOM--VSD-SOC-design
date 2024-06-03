@@ -45,7 +45,7 @@ In FIG 1.1.3 we can see that the C-program is compiled to its RISC V assembly la
 This assembly language program is then converted to its machine language program. In this case, it is stored in a hexadecimal format and then converted to the binary format, which the machine understands. <br>
 The bits get executed inside the layout and we get the output. <br>
 The HDL(Hardware Descriptive Language) acts as an interface between the RISC V architecture and the layout design. In this, the implementation is done using an RTL code. <br>
-So, 
+So, the RISC V architecture is implemented using an RTL code, after that the RTL to GDSII is performed to get the Layout. 
 
 * SOC design and openLANE.
 * Get familiar with open-source EDA tools.

@@ -43,7 +43,7 @@ FIG 1.1.3: C-program and its equivalent layout design
 
 In FIG 1.1.3 we can see that the C-program is compiled to its RISC V assembly language program. <br> 
 This assembly language program is then converted to its machine language program. In this case, it is stored in a hexadecimal format and then converted to the binary format, which the machine understands. <br>
-The bits gets executed inside the layout and we get the output. <br>
+The bits get executed inside the layout and we get the output. <br>
 
 * SOC design and openLANE.
 * Get familiar with open source EDA tools.

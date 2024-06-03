@@ -38,7 +38,7 @@ This is the language of the computers, this is how we talk to the computer. <br>
 <figcaption style="text-align:center;">
 <img width="538" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/df85780e-eedf-49c7-a081-0804d67390ae">
 <br>
-FIG 1.1.3: C-program and its equivalent layout design and RTL code. 
+FIG 1.1.3: C-program, RTL implementation, and equivalent layout design. 
 </figcaption> <br><br>
 
 In FIG 1.1.3 we can see that the C-program is compiled to its RISC V assembly language program. <br> 

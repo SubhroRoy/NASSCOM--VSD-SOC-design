@@ -41,8 +41,12 @@ This is the language of the computers, this is how we talk to the computer. <br>
 FIG 1.1.3: C-program and its equivalent layout design 
 </figcaption> <br><br>
 
+In FIG 1.1.3 we can see that the C-program is compiled to its RISC V assembly language program. <br> 
+This assembly language program is then converted to its machine language program. In this case, it is stored in a hexadecimal format and then converted to the binary format, which the machine understands. <br>
+
+
 * SOC design and openLANE.
-* Get familiar to open source EDA tools.
+* Get familiar with open source EDA tools.
 <br><br>
   
 PICORV32A PREP DONE

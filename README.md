@@ -18,7 +18,7 @@ In Fig. 1.1.1, circled in yellow, is the chip in focus. Here we can see the chip
 <img width="300" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/55393ac9-4072-4522-90cf-cf48fa148cdc"> 
 <img width="407" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/cc6bfd37-ac02-4646-b07c-6c7c6ac081ee">
 <img width="371" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/fde7311b-5a2a-417b-a71b-f0cd4d2a8c79">
-<img width="379" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/26ac838d-22e6-4e75-8ce2-442a31b58bef">
+<img width="468" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/563ad6ab-5374-4efe-9a68-551f422d64b0">
 <br>
 FIG 1.1.2: (i-top left)Chip structure in a QFN-48 package,(ii-top right)CHIP Inside: PADS, Core, Die, (iii-bottom left)RISC V SOC sample and (iv-bottom right) RISC V SOC core blocks 
 </figcaption> <br><br>

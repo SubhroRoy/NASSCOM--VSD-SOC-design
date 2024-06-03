@@ -30,7 +30,7 @@ If we take the chip in question and remove the cover. We will see the chip struc
 **PADS**: Used to send the signals inside the chip. <br>
 
 A typical RISC-V SoC core consists of: <br>
-**Foundry IPs**(intellectual properties) SRAM, ADC, DAC, PLL. <br>
+**Foundry IPs**(Intellectual Property) SRAM, ADC, DAC, PLL. <br>
 **MACROS** SPI, RISC V SOC. <BR>
 
 * SOC design and openLANE.

@@ -21,7 +21,7 @@ In Fig. 1.1.1, circled in yellow, is the chip in focus. Here we can see the chip
 <br>
 FIG 1.1.2: (i-top left)Chip structure in a QFN-48 package,(ii-top right)CHIP Inside: PADS, Core, Die, (iii-bottom left)RISC V SOC sample and (iv-bottom right) RISC V SOC core blocks 
 </figcaption> <br><br>
-If we take the chip in question and remove the cover. We will see the chip structure as seen above. It is a QFN-48 package structure i.e. Quad Flat No-Leads structure with a total of 48 pins. The chip sits at the middle of the package connected to the pins using wire bonds. <br><br>
+If we take the chip in question and remove the cover. We will see the chip structure as seen above. It is a QFN-48 package structure i.e. Quad Flat No-Leads structure with 48 pins. The chip sits in the middle of the package and is connected to the pins using wire bonds. <br><br>
 
 **Components of the CHIP :** <br>
 **CORE**: Where all the logic sits.<br>
@@ -38,7 +38,7 @@ This is the language of the computers, this is how we talk to the computer. <br>
 <figcaption style="text-align:center;">
 <img width="538" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/df85780e-eedf-49c7-a081-0804d67390ae">
 <br>
-FIG 1.1.3: C-program and its equivalent layout design 
+FIG 1.1.3: C-program and its equivalent layout design and HDL code. 
 </figcaption> <br><br>
 
 In FIG 1.1.3 we can see that the C-program is compiled to its RISC V assembly language program. <br> 

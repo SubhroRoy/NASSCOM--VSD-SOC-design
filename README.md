@@ -36,7 +36,7 @@ A typical RISC-V SoC core consists of: <br>
 **RISC V ISA** (Instruction Set Architecture) --
 This is the language of the computers, this is how we talk to the computer. <br>
 <figcaption style="text-align:center;">
-<img width="538" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/df85780e-eedf-49c7-a081-0804d67390ae">
+<img width="547" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/c1c30821-8337-433a-9b22-0307301b50d3">
 <br>
 FIG 1.1.3: C-program, RTL implementation, and equivalent layout design. 
 </figcaption> <br><br>
@@ -44,9 +44,11 @@ FIG 1.1.3: C-program, RTL implementation, and equivalent layout design.
 In FIG 1.1.3 we can see that the C-program is compiled to its RISC V assembly language program. <br> 
 This assembly language program is then converted to its machine language program. In this case, it is stored in a hexadecimal format and then converted to the binary format, which the machine understands. <br>
 The bits get executed inside the layout and we get the output. <br>
+The HDL(Hardware Descriptive Language) acts as an interface between the RISC V architecture and the layout design. In this, the implementation is done using an RTL code. <br>
+So, 
 
 * SOC design and openLANE.
-* Get familiar with open source EDA tools.
+* Get familiar with open-source EDA tools.
 <br><br>
   
 PICORV32A PREP DONE

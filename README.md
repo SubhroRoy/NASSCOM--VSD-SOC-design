@@ -32,7 +32,7 @@ A typical RISC-V SoC core consists of: <br>
 **Foundry IPs**(Intellectual Property) SRAM, ADC, DAC, PLL. <br>
 **MACROS**(purely digital blocks) SPI, RISC V SOC. <BR>
 
-### Introduction to RISC V.
+#### Introduction to RISC V.
 
 * SOC design and openLANE.
 * Get familiar to open source EDA tools.

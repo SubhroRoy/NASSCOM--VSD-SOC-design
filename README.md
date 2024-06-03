@@ -33,6 +33,8 @@ A typical RISC-V SoC core consists of: <br>
 **MACROS**(purely digital blocks) SPI, RISC V SOC. <BR>
 
 #### Introduction to RISC V.
+**RISC V ISA** (Instruction Set Architecture) --
+This is the language of the computers, this is how we talk to the computer. <br>
 
 * SOC design and openLANE.
 * Get familiar to open source EDA tools.

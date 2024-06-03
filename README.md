@@ -35,6 +35,11 @@ A typical RISC-V SoC core consists of: <br>
 #### Introduction to RISC V.
 **RISC V ISA** (Instruction Set Architecture) --
 This is the language of the computers, this is how we talk to the computer. <br>
+<figcaption style="text-align:center;">
+<img width="559" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/41b545e5-376a-44ac-869f-0f42d96e1317">
+<br>
+FIG 1.1.3: C-program and its equivalent layout design 
+</figcaption> <br><br>
 
 * SOC design and openLANE.
 * Get familiar to open source EDA tools.

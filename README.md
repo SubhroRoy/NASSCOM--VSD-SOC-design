@@ -47,6 +47,8 @@ The bits get executed inside the layout and we get the output. <br>
 The HDL(Hardware Descriptive Language) acts as an interface between the RISC V architecture and the layout design. In this, the implementation is done using an RTL code. <br>
 So, the RISC V architecture is implemented using an RTL code, after that the RTL to GDSII is performed to get the Layout. 
 
+#### From software application to hardware.
+
 * SOC design and openLANE.
 * Get familiar with open-source EDA tools.
 <br><br>

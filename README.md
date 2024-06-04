@@ -55,11 +55,10 @@ FIG 1.1.4: Flow application software to system software to hardware.
 </figcaption> <br><br>
 
 In FIG 1.1.4 we can see the structure of the system software.
-Components of system software
-* Operating system
-Handles IO operations.
-Allocates memory.
-low-level system functions i.e. convert the application software to assembly level program that gets converted to binary level program, which the machine can understand. 
+Major components of system software
+* Operating system. <br>
+The major operation of the system software is to convert the application software to its respective assembly level program and then to its binary level program, which the machine can understand. It also handles IO operations, allocates memory and does low-level system functions.
+
 
 * Compiler
 * Assembler

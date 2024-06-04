@@ -60,7 +60,7 @@ Major components of system software are:
 The primary function of operating system is to convert application software into its respective assembly-level program and subsequently into its binary-level program, which the machine can understand. Additionally, it handles I/O operations, allocates memory, and performs low-level system functions. <br>
 
 * Compiler. <br>
-The compiler converts small functions in C, C++, JAVA, etc language to instructions. These instructions are to be fed to the hardware. Therefore, the syntax of these instructions depends on what the hardware needs. For example, if the hardware is of a RISC V architecture then the instructions must be of a RISC V architecture. These instructions are present in a .exe file. <br>
+The compiler converts small functions in C, C++, JAVA, etc language to instructions. These instructions are to be fed to the hardware. Therefore, the syntax of these instructions depends on what the hardware needs. For example, if the hardware is of a RISC V architecture then the instructions must be of a RISC V architecture. These instructions are present in a .exe file, which is the output of a compiler. <br>
 * Assembler
 
 * SOC design and openLANE.

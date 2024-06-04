@@ -57,8 +57,7 @@ FIG 1.1.4: Flow application software to system software to hardware.
 In FIG 1.1.4 we can see the structure of the system software.
 Major components of system software
 * Operating system. <br>
-The major operation of the system software is to convert the application software to its respective assembly level program and then to its binary level program, which the machine can understand. It also handles IO operations, allocates memory and does low-level system functions.
-
+The primary function of operating system is to convert application software into its respective assembly-level program and subsequently into its binary-level program, which the machine can understand. Additionally, it handles I/O operations, allocates memory, and performs low-level system functions. <br>
 
 * Compiler
 * Assembler

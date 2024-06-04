@@ -54,8 +54,8 @@ So, the RISC V architecture is implemented using an RTL code, after that the RTL
 FIG 1.1.4: Flow application software to system software to hardware. 
 </figcaption> <br><br>
 
-In FIG 1.1.4 we can see the structure of the system software.<br>
-Major components of system software
+In FIG 1.1.4 we can see the structure of the system software.<br><br>
+Major components of system software are:
 * Operating system. <br>
 The primary function of operating system is to convert application software into its respective assembly-level program and subsequently into its binary-level program, which the machine can understand. Additionally, it handles I/O operations, allocates memory, and performs low-level system functions. <br>
 

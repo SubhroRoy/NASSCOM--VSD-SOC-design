@@ -54,6 +54,16 @@ So, the RISC V architecture is implemented using an RTL code, after that the RTL
 FIG 1.1.4: Flow application software to system software to hardware. 
 </figcaption> <br><br>
 
+In FIG 1.1.4 we can see the structure of the system software.
+Components of system software
+* Operating system
+Handles IO operations.
+Allocates memory.
+low-level system functions i.e. convert the application software to assembly level program that gets converted to binary level program, which the machine can understand. 
+
+* Compiler
+* Assembler
+
 * SOC design and openLANE.
 * Get familiar with open-source EDA tools.
 <br><br>

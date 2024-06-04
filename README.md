@@ -49,7 +49,7 @@ So, the RISC V architecture is implemented using an RTL code, after that the RTL
 
 #### From software application to hardware.
 <figcaption style="text-align:center;">
-<img width="544" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/c280fa64-6efb-4ae1-855a-87175fca8ea5">
+<img width="534" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/5cc10af1-5d13-4321-b460-929c8bca4378">
 <br>
 FIG 1.1.4: Flow application software to system software to hardware. 
 </figcaption> <br><br>

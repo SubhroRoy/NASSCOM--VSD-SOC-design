@@ -61,7 +61,9 @@ The primary function of operating system is to convert application software into
 
 * Compiler. <br>
 The compiler converts small functions in C, C++, JAVA, etc language to instructions. These instructions are to be fed to the hardware. Therefore, the syntax of these instructions depends on what the hardware needs. For example, if the hardware is of a RISC V architecture then the instructions must be of a RISC V architecture. These instructions are present in a .exe file, which is the output of a compiler. <br>
-* Assembler
+* Assembler. <br>
+The assembler converts the instructions generated from the compiler to 1's and 0's i.e. respective binary language, which the hardware understands. <br>
+
 
 * SOC design and openLANE.
 * Get familiar with open-source EDA tools.

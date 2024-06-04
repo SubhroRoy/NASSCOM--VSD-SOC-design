@@ -48,6 +48,11 @@ The HDL(Hardware Descriptive Language) acts as an interface between the RISC V a
 So, the RISC V architecture is implemented using an RTL code, after that the RTL to GDSII is performed to get the Layout. 
 
 #### From software application to hardware.
+<figcaption style="text-align:center;">
+<img width="544" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/c280fa64-6efb-4ae1-855a-87175fca8ea5">
+<br>
+FIG 1.1.4: Flow application software to system software to hardware. 
+</figcaption> <br><br>
 
 * SOC design and openLANE.
 * Get familiar with open-source EDA tools.

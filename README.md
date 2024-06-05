@@ -72,7 +72,7 @@ FIG 1.1.5: Stop Watch example.
 <figcaption style="text-align:center;">
 <img width="596" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/b5bfa7ae-c882-410a-b08c-41b5a404d361">
 <br>
-FIG 1.1.6: Compiler and assembler I/O structure
+FIG 1.1.6: Compiler and assembler I/O for stop watch example
 </figcaption> <br><br>
 
 * SOC design and openLANE.

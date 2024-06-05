@@ -83,6 +83,13 @@ FIG 1.1.7: Instruction set generated in compiler for RISC V architecture acts as
 </figcaption> <br>
 This is how the user interacts with the computer/hardware.<br><br>
 In FIG 1.1.5 and FIG 1.1.6 shows a stop watch operation and its respective compiler and assembler input and output. <br><br>
+
+<figcaption style="text-align:center;">
+<img width="539" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/f1b19908-0762-4a43-b79a-c02361b6314f">
+<br>
+FIG 1.1.7: Physical Design Implementation from software to hardware  
+</figcaption> <br><br>
+
 * SOC design and openLANE.
 * Get familiar with open-source EDA tools.
 <br><br>

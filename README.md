@@ -66,9 +66,13 @@ The assembler converts the instructions generated from the compiler to 1's and 0
 
 <figcaption style="text-align:center;">
 <img width="544" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/a10f6205-1e5f-46da-892e-61ea84a59077">
+<br>
+FIG 1.1.5: Stop Watch example. 
+</figcaption> <br><br>
+<figcaption style="text-align:center;">
 <img width="596" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/b5bfa7ae-c882-410a-b08c-41b5a404d361">
 <br>
-FIG 1.1.5: (i)Stop Watch example. (ii) Compiler and assembler I/O structure
+FIG 1.1.6: Compiler and assembler I/O structure
 </figcaption> <br><br>
 
 * SOC design and openLANE.

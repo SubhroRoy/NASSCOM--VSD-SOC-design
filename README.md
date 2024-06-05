@@ -80,8 +80,8 @@ FIG 1.1.6: Compiler and assembler I/O for stop watch example
 <img width="555" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/9e0f3de6-f74b-4bb6-bb22-09fd354eb5a7">
 <br>
 FIG 1.1.7: Instruction set generated in compiler for RISC V architecture acts as an abstract interface between C-language and Hardware.  
-</figcaption> <br><br>
-This is how the user interacts with the computer/hardware.<br>
+</figcaption> <br>
+This is how the user interacts with the computer/hardware.<br><br>
 In FIG 1.1.5 and FIG 1.1.6 shows a stop watch operation and its respective compiler and assembler input and output. <br><br>
 * SOC design and openLANE.
 * Get familiar with open-source EDA tools.

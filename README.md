@@ -81,7 +81,7 @@ FIG 1.1.6: Compiler and assembler I/O for stop watch example
 <br>
 FIG 1.1.7: Instruction set generated in compiler for RISC V architecture acts as an abstract interface between C-language and Hardware.  
 </figcaption> <br><br>
-
+This is how the user interacts with the computer/hardware.<br>
 In FIG 1.1.5 and FIG 1.1.6 shows a stop watch operation and its respective compiler and assembler input and output. <br><br>
 * SOC design and openLANE.
 * Get familiar with open-source EDA tools.

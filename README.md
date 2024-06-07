@@ -90,6 +90,7 @@ In FIG 1.1.5 and FIG 1.1.6 shows a stop watch operation and its respective compi
 FIG 1.1.7: Physical Design Implementation from software to hardware  
 </figcaption> <br><br>
 
+
 * SOC design and openLANE.
 * Get familiar with open-source EDA tools.
 <br><br>

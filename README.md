@@ -104,8 +104,9 @@ FIG 1.1.10: Basic sections of the course
 
 We will deal with Part 1 i.e. RISC-V ISA (Instruction Set Architecture).<br>
 
-* SOC design and openLANE.
-* Get familiar with open-source EDA tools.
+### Contents of the course: SOC design and openLANE.
+
+### Get familiar with open-source EDA tools.
 <br><br>
   
 PICORV32A PREP DONE

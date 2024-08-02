@@ -96,6 +96,13 @@ FIG 1.1.8: ADD instruction read by hardware from its RISC V binary format
 FIG 1.1.9: Physical Design Implementation from software to hardware  
 </figcaption> <br><br>
 
+<figcaption style="text-align:center;">
+<img width="601" alt="image" src="https://github.com/user-attachments/assets/022f8118-6b93-4db6-aba5-29378f14682e">
+<br>
+FIG 1.1.10: Basic sections of the course  
+</figcaption> <br><br>
+
+We will deal with Part 1 i.e. RISC-V ISA (Instruction Set Architecture).<br>
 
 * SOC design and openLANE.
 * Get familiar with open-source EDA tools.

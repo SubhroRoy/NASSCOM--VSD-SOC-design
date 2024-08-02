@@ -73,16 +73,16 @@ FIG 1.1.5: Stop Watch example.
 <figcaption style="text-align:center;">
 <img width="596" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/b5bfa7ae-c882-410a-b08c-41b5a404d361">
 <br>
-FIG 1.1.6: Compiler and assembler I/O for stop watch example
+FIG 1.1.6: Compiler and assembler I/O for stopwatch example
 </figcaption> <br><br>
 
 <figcaption style="text-align:center;">
 <img width="555" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/9e0f3de6-f74b-4bb6-bb22-09fd354eb5a7">
 <br>
-FIG 1.1.7: Instruction set generated in compiler for RISC V architecture acts as an abstract interface between C-language and Hardware.  
+FIG 1.1.7: The instruction set generated in the compiler for RISC V architecture acts as an abstract interface between C-language and Hardware.  
 </figcaption> <br>
 This is how the user interacts with the computer/hardware.<br><br>
-In FIG 1.1.5 and FIG 1.1.6 shows a stop watch operation and its respective compiler and assembler input and output. <br><br>
+FIG 1.1.5 and FIG 1.1.6 show a stopwatch operation and its respective compiler and assembler input and output. <br><br>
 
 <figcaption style="text-align:center;">
 <img width="603" alt="image" src="https://github.com/user-attachments/assets/4c844bbb-9117-4bd5-aef5-6490ba584001">
@@ -106,7 +106,7 @@ We will deal with Part 1 i.e. RISC-V ISA (Instruction Set Architecture).<br>
 
 ### Contents of the course: SOC design and openLANE.
 
-In this section we discuss SoC Design Using OpenLANE by Mohamed Shalan.<br>
+In this section, we discuss SoC Design Using OpenLANE by Mohamed Shalan.<br>
 
 ### Get familiar with open-source EDA tools.
 <br><br>

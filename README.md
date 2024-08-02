@@ -114,6 +114,16 @@ FIG 1.2.1: Components that make digital ASIC design
 </figcaption> <br><br> 
 ### Get familiar with open-source EDA tools.
 <br><br>
-  
+
+VLSI Design companies are mostly divided into Pure Play FABs and FABLESS design companies.<br>
+PDK (Process Design Kit) is the interface between the FAB and the designers. PDK includes :
+1. Process Design Rules: DRC, LVS, PEX
+2. Device Models
+3. Digital Standard cell libraries
+4. I/O Libraries
+5. Much more sensitive information cannot be disclosed to the masses. Thus the information was protected by Non-Discloser Agreements.
+
+
+
 PICORV32A PREP DONE
 ![image](https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/05c30919-36f8-4d64-a5e2-2b652adeb588)

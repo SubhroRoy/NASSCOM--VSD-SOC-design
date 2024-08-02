@@ -87,13 +87,13 @@ In FIG 1.1.5 and FIG 1.1.6 shows a stop watch operation and its respective compi
 <figcaption style="text-align:center;">
 <img width="603" alt="image" src="https://github.com/user-attachments/assets/4c844bbb-9117-4bd5-aef5-6490ba584001">
 <br>
-FIG 1.1.7: ADD instruction read by hardware from its RISC V binary format  
+FIG 1.1.8: ADD instruction read by hardware from its RISC V binary format  
 </figcaption> <br><br> 
 
 <figcaption style="text-align:center;">
 <img width="539" alt="image" src="https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/f1b19908-0762-4a43-b79a-c02361b6314f">
 <br>
-FIG 1.1.8: Physical Design Implementation from software to hardware  
+FIG 1.1.9: Physical Design Implementation from software to hardware  
 </figcaption> <br><br>
 
 

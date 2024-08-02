@@ -107,7 +107,11 @@ We will deal with Part 1 i.e. RISC-V ISA (Instruction Set Architecture).<br>
 ### Contents of the course: SOC design and openLANE.
 
 In this section, we discuss SoC Design Using OpenLANE by Mohamed Shalan.<br>
-
+<figcaption style="text-align:center;">
+<img width="561" alt="image" src="https://github.com/user-attachments/assets/62f57f6c-0e1b-47a8-8ad2-3d7784e0e9e8">
+<br>
+FIG 1.2.1: Components that make digital ASIC design  
+</figcaption> <br><br> 
 ### Get familiar with open-source EDA tools.
 <br><br>
   

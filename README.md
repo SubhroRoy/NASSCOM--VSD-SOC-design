@@ -123,6 +123,11 @@ PDK (Process Design Kit) is the interface between the FAB and the designers. PDK
 4. I/O Libraries
 5. Much more sensitive information cannot be disclosed to the masses. Thus the information was protected by Non-Discloser Agreements.
 
+But now we have an opensource PDK with the help of Google and Skywater.<br>
+
+<img width="584" alt="image" src="https://github.com/user-attachments/assets/7c569398-b287-4d4f-8ca6-74a74036390e">
+<br>
+
 
 
 PICORV32A PREP DONE

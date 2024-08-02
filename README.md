@@ -112,8 +112,6 @@ In this section, we discuss SoC Design Using OpenLANE by Mohamed Shalan.<br>
 <br>
 FIG 1.2.1: Components that make digital ASIC design  
 </figcaption> <br><br> 
-### Get familiar with open-source EDA tools.
-<br><br>
 
 VLSI Design companies are mostly divided into Pure Play FABs and FABLESS design companies.<br>
 PDK (Process Design Kit) is the interface between the FAB and the designers. PDK includes :
@@ -130,6 +128,14 @@ But now we have an opensource PDK with the help of Google and Skywater.<br>
 FIG 1.2.2: Open Source PDK  
 </figcaption> <br><br> 
 
+<figcaption style="text-align:center;">
+<img width="557" alt="image" src="https://github.com/user-attachments/assets/7ee1c669-9dce-45c8-a55b-fc0c574d074d">
+<br>
+FIG 1.2.2: Components that make OpenSource digital ASIC design
+</figcaption> <br><br> 
+
+### Get familiar with open-source EDA tools.
+<br><br>
 
 PICORV32A PREP DONE
 ![image](https://github.com/SubhroRoy/NASSCOM--VSD-SOC-design/assets/169291565/05c30919-36f8-4d64-a5e2-2b652adeb588)

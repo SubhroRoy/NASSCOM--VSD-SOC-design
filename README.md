@@ -167,6 +167,38 @@ Placement is done in 2 steps global and detailed.<br>
 <img width="346" alt="image" src="https://github.com/user-attachments/assets/f8ec667e-a828-4e62-80f9-8e66107ba49b">
 <br>
 
+Routing can be seen in 2 steps 
+1. Clock Tree Synthesis.
+2. Signal Routing.
+
+Clock Tree Synthesis:<br>
+<img width="372" alt="image" src="https://github.com/user-attachments/assets/cf5dece5-41d7-425c-bd69-d183eb11419d">
+<br>
+
+Signal Routing: <br>
+<img width="368" alt="image" src="https://github.com/user-attachments/assets/01fb8448-c1e7-4885-913c-7f2f61b1b80a">
+<br>
+The Skywater PDK defines 6 routing layers:
+1. The lowest layer i.e. is the Local Interconnect Layer, this is a Titanium Nitride layer
+2. The other layers are alluminum layers.
+
+<br>
+<img width="364" alt="image" src="https://github.com/user-attachments/assets/8c52efbc-fca1-444a-b219-38e63165c891">
+<br>
+
+Sign Off: <br>
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/9d0df3ca-b6e3-4e81-994b-7ea6c1f60964">
+<br>
+
+#### OpenLANE and Strive Chipsets
+OpenLANE:
+<img width="359" alt="image" src="https://github.com/user-attachments/assets/e377ec6c-2e12-4eba-9f7e-12e08ea0732c">
+<br>
+
+striVe SoC Family:
+<img width="332" alt="image" src="https://github.com/user-attachments/assets/74412e42-77dd-42e0-8119-3994e345051b">
+<br>
+
 ### Get familiar with open-source EDA tools.
 <br><br>
 

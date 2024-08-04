@@ -150,7 +150,6 @@ The objective of the ASIC design flow is to take the design from the RTL level t
 </figcaption> <br><br> 
 Synthesis:<br>
 <img width="371" alt="image" src="https://github.com/user-attachments/assets/f8be1c08-6d37-452b-b75a-3f184ec7d99f">
-<br>
 <img width="374" alt="image" src="https://github.com/user-attachments/assets/09cd34ed-29f6-48ff-b3ea-b7aa8896743a">
 <br>
 
@@ -160,6 +159,9 @@ Floor and Power Planning : <br>
 <img width="289" alt="image" src="https://github.com/user-attachments/assets/89581503-ef2d-48c4-b64f-bab8ad0d561a">
 <br>
 
+Placement : <br>
+<img width="353" alt="image" src="https://github.com/user-attachments/assets/b54a3228-4d76-45b8-b385-bef97c64b61f">
+<br>
 
 ### Get familiar with open-source EDA tools.
 <br><br>

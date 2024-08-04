@@ -105,7 +105,7 @@ FIG 1.1.10: Basic sections of the course
 We will deal with Part 1 i.e. RISC-V ISA (Instruction Set Architecture).<br>
 
 ### Contents of the course: SOC design and openLANE.
-
+#### OpenSource ASIC design
 In this section, we discuss SoC Design Using OpenLANE by Mohamed Shalan.<br>
 <figcaption style="text-align:center;">
 <img width="561" alt="image" src="https://github.com/user-attachments/assets/62f57f6c-0e1b-47a8-8ad2-3d7784e0e9e8">
@@ -139,6 +139,10 @@ FIG 1.2.3: Components that make OpenSource digital ASIC design
 <br>
  FIG 1.2.4: Speed of 130nm process.
 </figcaption> <br><br> 
+The objective of the ASIC design flow is to take the design from the RTL level to the GDSII for the final layout.<br>
+
+#### Simplified RTL to GDSII Flow
+
 
 ### Get familiar with open-source EDA tools.
 <br><br>

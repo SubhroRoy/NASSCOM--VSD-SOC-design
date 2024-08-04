@@ -143,6 +143,11 @@ The objective of the ASIC design flow is to take the design from the RTL level t
 
 #### Simplified RTL to GDSII Flow
 
+<figcaption style="text-align:center;">
+<img width="605" alt="image" src="https://github.com/user-attachments/assets/d9482c1e-f758-4246-8c09-bc8a2fb8ddd9">
+<br>
+ FIG 1.2.5: Simplified RTL to GDSII flow.
+</figcaption> <br><br> 
 
 ### Get familiar with open-source EDA tools.
 <br><br>

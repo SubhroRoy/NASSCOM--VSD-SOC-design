@@ -163,6 +163,10 @@ Placement : <br>
 <img width="353" alt="image" src="https://github.com/user-attachments/assets/b54a3228-4d76-45b8-b385-bef97c64b61f">
 <br>
 
+Placement is done in 2 steps global and detailed.<br>
+<img width="346" alt="image" src="https://github.com/user-attachments/assets/f8ec667e-a828-4e62-80f9-8e66107ba49b">
+<br>
+
 ### Get familiar with open-source EDA tools.
 <br><br>
 

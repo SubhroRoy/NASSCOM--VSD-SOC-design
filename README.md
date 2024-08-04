@@ -131,7 +131,13 @@ FIG 1.2.2: Open Source PDK
 <figcaption style="text-align:center;">
 <img width="557" alt="image" src="https://github.com/user-attachments/assets/7ee1c669-9dce-45c8-a55b-fc0c574d074d">
 <br>
-FIG 1.2.2: Components that make OpenSource digital ASIC design
+FIG 1.2.3: Components that make OpenSource digital ASIC design
+</figcaption> <br><br> 
+
+<figcaption style="text-align:center;">
+<img width="602" alt="image" src="https://github.com/user-attachments/assets/a478686a-1ad3-48ff-bf07-4e4f3d4712f9">
+<br>
+ FIG 1.2.4: Speed of 130nm process.
 </figcaption> <br><br> 
 
 ### Get familiar with open-source EDA tools.

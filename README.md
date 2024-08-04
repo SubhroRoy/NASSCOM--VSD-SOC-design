@@ -156,8 +156,8 @@ Synthesis:<br>
 
 Floor and Power Planning : <br>
 <img width="366" alt="image" src="https://github.com/user-attachments/assets/c6595985-d79c-416f-acef-0d7033439bf0">
-<br>
 <img width="327" alt="image" src="https://github.com/user-attachments/assets/fd9039b0-94b5-485d-94a4-3e0e9c6bf607">
+<img width="289" alt="image" src="https://github.com/user-attachments/assets/89581503-ef2d-48c4-b64f-bab8ad0d561a">
 <br>
 
 

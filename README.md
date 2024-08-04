@@ -191,11 +191,11 @@ Sign Off: <br>
 <br>
 
 #### OpenLANE and Strive Chipsets
-OpenLANE:
+OpenLANE:<br>
 <img width="359" alt="image" src="https://github.com/user-attachments/assets/e377ec6c-2e12-4eba-9f7e-12e08ea0732c">
 <br>
 
-striVe SoC Family:
+striVe SoC Family:<br>
 <img width="332" alt="image" src="https://github.com/user-attachments/assets/74412e42-77dd-42e0-8119-3994e345051b">
 <br>
 

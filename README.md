@@ -179,8 +179,8 @@ Signal Routing: <br>
 <img width="368" alt="image" src="https://github.com/user-attachments/assets/01fb8448-c1e7-4885-913c-7f2f61b1b80a">
 <br>
 The Skywater PDK defines 6 routing layers:
-1. The lowest layer i.e. is the Local Interconnect Layer, this is a Titanium Nitride layer
-2. The other layers are alluminum layers.
+1. The lowest layer i.e. is the Local Interconnect Layer, which is a Titanium Nitride layer
+2. The other layers are aluminum layers.
 
 <br>
 <img width="364" alt="image" src="https://github.com/user-attachments/assets/8c52efbc-fca1-444a-b219-38e63165c891">
@@ -198,6 +198,8 @@ OpenLANE:<br>
 striVe SoC Family:<br>
 <img width="332" alt="image" src="https://github.com/user-attachments/assets/74412e42-77dd-42e0-8119-3994e345051b">
 <br>
+
+The main goal of OpenLANE is to produce clean GDSII with no human intervention.<br>
 
 ### Get familiar with open-source EDA tools.
 <br><br>

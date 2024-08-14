@@ -200,6 +200,18 @@ striVe SoC Family:<br>
 <br>
 
 The main goal of OpenLANE is to produce clean GDSII with no human intervention.<br>
+Clean means, <br>
+1. No LVS violation
+2. No DRC violation
+3. Timing Violations? WIP
+<br>
+OpenLANE is tuned for the SkyWater 130nm open PDK. Also, supports XFAB180 and GF130G <br>
+It can be used to harden MACRS and CHIPS. OpenLANE has 2 modes of operation:
+1. Autonomous
+2. Interactive
+<br>
+
+
 
 ### Get familiar with open-source EDA tools.
 <br><br>
